@@ -12,4 +12,5 @@ public class App
     }
     void minus(){}
     void aDD(){}
+    int gGGGG(){}
 }
